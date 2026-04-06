@@ -1,5 +1,5 @@
 ---
-layout: cv
+layout: page # change to cv if you want to display a web CV. The content will then come from _data/cv.yml
 permalink: /cv/
 title: CV
 nav: true
