@@ -2,33 +2,33 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+# subtitle: <a href='#'>Affiliations</a>. 
 
 profile:
-  align: right
+  align: left
   image: prof_pic.jpg
-  image_circular: false # crops the image to make it circular
+  image_circular: true # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>Neuroscience Institute</p>
+    <p>University of Chicago</p>
+    <p>madar@uchicago.edu</p>
 
-selected_papers: true # includes a list of papers marked as "selected={true}"
+selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 
 announcements:
-  enabled: true # includes a list of news items
+  enabled: false # includes a list of news items
   scrollable: true # adds a vertical scroll bar if there are more than 3 news items
-  limit: 5 # leave blank to include all the news in the `_news` folder
+  limit: 3 # leave blank to include all the news in the `_news` folder
 
 latest_posts:
-  enabled: true
+  enabled: false
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](https://www.reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I am a neuroscientist studying how networks of brain cells process information and perform computations to support cognition, with a central focus on the hippocampus and its role in learning and memory. My primary goal is to understand what algorithms the brain uses to enable episodic memory, how these algorithms are biologically implemented at the level of neurons and synapses, and how they break down in numerous brain and mental disorders.    
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+I received my PhD at the University of Wisconsin-Madison in the lab of Mathew V. Jones, were I used slice electrophysiology and computational tools to measure input-output computations performed by the dentate gyrus of the hippocampus and identify their circuit mechanisms. I continued this line of questions for my postdoctoral research, in the lab of Mark Sheffield at the University of Chicago, where I combine 2-photon calcium imaging in behaving mice, data science and computational modeling to test and expand on theories of learning and memory.          
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+You can find a list of my publications here, or view my [google scholar profile](https://scholar.google.com/citations?user=zOf2cGQAAAAJ&hl=en). 
