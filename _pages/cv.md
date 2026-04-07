@@ -5,5 +5,5 @@ permalink: /cv/
 nav: true
 nav_order: 1
 redirect_to:
-  - /assets/pdf/MadarAntoine_CV_Feb2026.pdf
+  - assets/pdf/MadarAntoine_CV_Feb2026.pdf
 ---
