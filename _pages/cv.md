@@ -6,7 +6,6 @@ redirect_to:
   - /assets/pdf/MadarAntoine_CV_Feb2026.pdf
 ---
 
----
 # layout: cv # to display a web CV. The content will then come from _data/cv.yml
 # permalink: /cv/
 # title: CV
@@ -17,4 +16,3 @@ redirect_to:
 # description: #This is a description of the page. Remove # to publih description on website. You can modify it in '_pages/cv.md'. You can also change or remove the top pdf download button.
 # toc:
 #  sidebar: left
----
