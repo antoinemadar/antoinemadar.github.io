@@ -1,9 +1,9 @@
 ---
-layout: page
+layout: redirect #page
 title: CV
 permalink: /cv/
-nav: false
-nav_order: 2
+nav: true
+nav_order: 3
 redirect_to:
-  - assets/pdf/MadarAntoine_CV_Feb2026.pdf
+  - https://www.overleaf.com/read/mfswmqrbzbgt#109417
 ---
