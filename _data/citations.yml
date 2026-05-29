@@ -1,8 +1,8 @@
 metadata:
-  last_updated: '2026-05-20'
+  last_updated: '2026-05-29'
 papers:
   zOf2cGQAAAAJ:2osOgNQ5qMEC:
-    citations: 94
+    citations: 95
     title: Pattern separation of spiketrains in hippocampal neurons
     year: '2019'
   zOf2cGQAAAAJ:9yKSN-GCB0IC:
@@ -18,7 +18,7 @@ papers:
     title: 'Neuroscience of will: the nature of motor intentions'
     year: '2015'
   zOf2cGQAAAAJ:Y0pCki6q_DkC:
-    citations: 196
+    citations: 197
     title: Distinct place cell dynamics in CA1 and CA3 encode experience in new environments
     year: '2021'
   zOf2cGQAAAAJ:YsMSGLbcyi4C:
@@ -34,7 +34,7 @@ papers:
     title: 'Behavioral Timescale Synaptic Plasticity: A Burst in the Field of Learning and Memory'
     year: '2025'
   zOf2cGQAAAAJ:u-x6o8ySG0sC:
-    citations: 58
+    citations: 59
     title: Temporal pattern separation in hippocampal neurons through multiplexed neural codes
     year: '2019'
   zOf2cGQAAAAJ:u5HHmVD_uO8C:
