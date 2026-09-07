@@ -1,12 +1,12 @@
 metadata:
-  last_updated: '2026-08-07'
+  last_updated: '2026-09-07'
 papers:
   zOf2cGQAAAAJ:2osOgNQ5qMEC:
-    citations: 101
+    citations: 102
     title: Pattern separation of spiketrains in hippocampal neurons
     year: '2019'
   zOf2cGQAAAAJ:9yKSN-GCB0IC:
-    citations: 85
+    citations: 86
     title: Astroglial connexin 43 hemichannels modulate olfactory bulb slow oscillations
     year: '2015'
   zOf2cGQAAAAJ:IjCSPb-OGe4C:
@@ -18,11 +18,11 @@ papers:
     title: 'Neuroscience of will: the nature of motor intentions'
     year: '2015'
   zOf2cGQAAAAJ:Y0pCki6q_DkC:
-    citations: 211
+    citations: 217
     title: Distinct place cell dynamics in CA1 and CA3 encode experience in new environments
     year: '2021'
   zOf2cGQAAAAJ:YsMSGLbcyi4C:
-    citations: 51
+    citations: 54
     title: Synaptic plasticity rules driving representational shifting in the hippocampus
     year: '2025'
   zOf2cGQAAAAJ:d1gkVwhDpl0C:
@@ -30,11 +30,11 @@ papers:
     title: Deficits in behavioral and neuronal pattern separation in temporal lobe epilepsy
     year: '2021'
   zOf2cGQAAAAJ:eQOLeE2rZwMC:
-    citations: 8
+    citations: 9
     title: 'Behavioral Timescale Synaptic Plasticity: A Burst in the Field of Learning and Memory'
     year: '2025'
   zOf2cGQAAAAJ:u-x6o8ySG0sC:
-    citations: 61
+    citations: 65
     title: Temporal pattern separation in hippocampal neurons through multiplexed neural codes
     year: '2019'
   zOf2cGQAAAAJ:u5HHmVD_uO8C:
